@@ -1,2 +1,3 @@
-# Deep_Xenosis_Assignment1
+# Deep_Week1_Assignment
+
 Deep Sonawane Week 1 Assignment of java language
